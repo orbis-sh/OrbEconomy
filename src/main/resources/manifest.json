@@ -1,0 +1,22 @@
+{
+  "Group": "Orbis",
+  "Name": "OrbEconomy",
+  "Version": "1.0.0",
+  "Description": "A plugin that adds a simple economy system to the game, allowing players to earn and spend currency.",
+  "Authors": [
+    {
+      "Name": "Christopher Gjelten",
+      "Email": "support@orbis.sh",
+      "Url": "https://orbis.sh"
+    }
+  ],
+  "Website": "https://orbis.sh",
+  "ServerVersion": "*",
+  "Dependencies": {
+    "Orbis:OrbZones": "*"
+  },
+  "OptionalDependencies": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": true,
+  "Main": "sh.orbis.OrbEconomyPlugin"
+}
